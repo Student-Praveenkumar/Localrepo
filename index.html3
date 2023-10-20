@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      
+
+    <div>
+   <div>
+    <h1>Raja Kumar</h1>
+    <p>Contact: <a href="Raja.com">rajakumar2021219@gmail.com</a></p>
+    <p>Linkdin: <a href="Linkdin.com">https://www.linkedin.com/feed/</a></p>
+    <p>Contact: <a href="Raja.com">https://github.com/</a></p>
+</div>
+     
+<table>
+    <tr>
+        <td>
+            <img src="image.jpg" alt="Raja Kumar" width="100px" height="150">
+        </td>
+        <td>
+            I am a passionate software engineer with
+             expertise in problem-solving and 
+             algorithmic thinking.I love to explore
+             various technologies and frameworks to
+             develop efficient and scalable solutions.
+             with a strong foundation in data 
+             structure and algorithms, I strive to 
+             create robust and optimized code. I am
+             constantly expanding my skills and staying 
+             up-to-date with the latest advancement in 
+             the field of software development.
+
+        </td>
+    </tr>
+</table>
+
+<section>
+    <h2>Education</h2>
+    <ul>
+        <li>Bachelor of Technology in Informationc:\Users\DELL\Downloads\20230403_090831.jpg
+            Technology. Dr MGR Educational and Research Institute 
+        </li>
+        <li>CPP College Hishar Borhar Madhubani Bihar</li>
+    </ul>
+</section>
+<section>
+    <h2>Work Experience</h2>
+
+    <h3>Software Engineer, Microsoft</h3>
+   <span>Nov 2021 - May 2022</span>
+
+   <ul>
+    <li>developed and maintained web applications
+        using HTML, CSS, and JavaScript
+
+    </li>
+    <li>Collaborated with cross-functional teams
+        to design and implement software solution
+    </li>
+    <li>
+        Optimized code Performance and improved 
+        application efficiency 
+    </li>
+   </ul>
+
+</section>
+<section>
+    <h2>Software Develoment Engineer,Amazon</h2>
+
+    <div>july 2019 - October 2021</div>
+    <ul>
+        <li>Assisted in developing and testing software modules</li>
+        <li>Worked on bug fixing and performance enhuncement tasks</li>
+    </ul>
+
+</section>
+
+ <section>
+  <h2>Skills</h2>
+
+  <ul>
+    <li>java</li>
+    <li>C++</li>
+    <li>Pyton</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScriprt</li>
+    <li>SQL</li>
+
+
+  </ul>
+ </section>
+
+ <section>
+    <h3>Achievements</h3>
+  <ul>
+    <li>Service Selection Board(Recommendation Letter for officer entry in Indian Army)</li>
+    <li>Published an article on data structures in a renowned tech magazine</li>
+  </ul>
+ </section>
+
+<section>
+    <h3>projects</h3>
+    <ul>
+        <li>
+            <h3>Library Magagement System</h3>
+            <p>Library Management Applicaion - developed
+                a desktop aplication by using java 
+                Swing and MYSQl server. </p>
+                <p>Hosted Link: <a href="Raja.com">example.com/ecommerce</a></p>
+                <p>GitHup: <a href="Raja.com">gitHub.com/RajaKumar/ecommerce</a></p>
+        </li>
+        <li>
+            <h3>Friendly Chat AppFriendly</h3>
+            <p>Friendly Chat - An Android application marking use of firebase. 
+                to help people connect and Chat by sending messages and images.
+                also having login options. </p>
+                <p>Hosted Link: <a href="Raja.com">example.com/blog</a></p>
+                <p>GitHub Link <a href="Raja.com">gitHub.com/rajakumar/blog</a></p>
+        </li>
+        <li>
+            <h3>Secure Messenger AppSecure</h3>
+            <p>Secure Messager App - An Android application to have secure 
+                sender and recipient. using a number of cryptography algorithmic
+                for encryption and decryption. </p>
+                <p>Hoster Link: <a href="Raja.com">exmple.com/deshboard</a></p>
+                <p>GitHup Link: <a href="Raja.com">exmple.com/Rajakumar/deshboard</a></p>
+        </li>
+    </ul>
+
+</section>
+<section>
+    <h2>Freqendly Asked Questions:</h2>
+    <details>
+        <summary>What is Yors Name ?</summary>
+        <p>My Name Raja Kumar Sah.</p>
+        
+    </details>
+
+    <Details>
+        <summary>Question 1: What is Lorem Ipsum?</summary>
+        <p>Lorem Ipsum is Simply dummy text of the printing and typesetting Industry. </p>
+    </Details>
+
+    
+    <Details>
+        <summary>Question 2: How do I get Started?</summary>
+        <p>Lorem Ipsum is Simply dummy text of the printing and typesetting Industry. </p>
+    </Details>
+
+    
+    <Details>
+        <summary>Question 3: Can I Customize the setting?</summary>
+        <p>Lorem Ipsum is Simply dummy text of the printing and typesetting Industry. </p>
+    </Details>
+
+    
+    <Details>
+        <summary>Question4: Is There a mobile app avilable?</summary>
+        <p>Lorem Ipsum is Simply dummy text of the printing and typesetting Industry. </p>
+    </Details>
+
+    
+    <Details>
+        <summary>Question 5: How Can I Contact Customer Support?</summary>
+        <p>Lorem Ipsum is Simply dummy text of the printing and typesetting Industry. </p>
+    </Details>
+</section>
+
+   <footer>
+    <p>&#169 2023 Raja Kumar. All rights reserved.</p>
+   </footer>
+
+    </div>
+    
+</body>
+</html>
